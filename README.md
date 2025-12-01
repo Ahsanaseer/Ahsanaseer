@@ -1,5 +1,5 @@
 # 💫 About Me:
-Second-semester Software Engineering student at Ghulam Ishaq Khan Institute (GIKI) with a<br>passion for problem-solving and hands-on project development. Eager to gain real-world<br>experience through an internship and contribute to impactful tech solutions.
+Third-semester Software Engineering student at Ghulam Ishaq Khan Institute (GIKI) with a<br>passion for problem-solving and hands-on project development. Eager to gain real-world<br>experience through an internship and contribute to impactful tech solutions.
 
 
 ## 🌐 Socials:
